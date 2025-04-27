@@ -15,11 +15,11 @@ Clone the repository:
 ## Usage
 
 1. Launch Jupyter Notebook or Lab:  
-   jupyter notebook  
+   `jupyter notebook`  
    or  
-   jupyter lab  
+   `jupyter lab`
 2. Navigate to the directory where you saved these files and open any notebook.  
-3. Follow the step-by-step instructions in each notebook to explore data processing, visualization, and analysis techniques.
+3. Follow the instructions in each notebook to very basics of Python, data exploration, visualisation, and analysis.
 
 ## Contributing
 
