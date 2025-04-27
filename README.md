@@ -10,7 +10,7 @@ This repository contains a series of Jupyter notebooks and supporting files for 
 ## Installation
 
 Clone the repository:  
-   git clone https://github.com/Indungulo/Intro.git  
+   `git clone https://github.com/Indungulo/Intro.git`
 
 ## Usage
 
